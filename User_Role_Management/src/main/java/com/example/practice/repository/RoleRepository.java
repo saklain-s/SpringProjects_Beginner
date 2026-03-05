@@ -1,7 +1,7 @@
-package repository;
+package com.example.practice.repository;
 
 
-import entity.Role;
+import com.example.practice.entity.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

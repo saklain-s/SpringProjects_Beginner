@@ -1,4 +1,4 @@
-package dto;
+package com.example.practice.dto;
 
 import jakarta.validation.constraints.NotBlank;
 
