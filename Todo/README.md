@@ -11,7 +11,7 @@ This project provides a lightweight REST API for managing todo tasks. It allows 
 - **Framework:** Spring Boot 3.5.0
 - **Java Version:** 21
 - **Database:** H2 (In-memory)
-- **Build Tool:** Maven
+- **Build Tool:** Maven 
 
 ## Dependencies
 
