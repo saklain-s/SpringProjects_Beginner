@@ -2,7 +2,7 @@
 
 A simple Spring Boot REST API for managing todo items with Create, Read, Update, and Delete operations.
 
-## Overview
+## Overview 
 
 This project provides a lightweight REST API for managing todo tasks. It allows users to add new todos, mark them as complete, retrieve all todos, and delete todos.
 
